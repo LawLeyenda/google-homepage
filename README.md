@@ -1,0 +1,1 @@
+In this project, I am attempting to make simple copy of Google's homepage. My intent is to get more accustomed to html and css. 
